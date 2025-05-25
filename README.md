@@ -1,2 +1,2 @@
 # Notes
-cheatsheets ,notes
+Cheatsheets ,Notes
